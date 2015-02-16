@@ -9,9 +9,4 @@ public class Rotator : MonoBehaviour {
 		transform.Rotate (deltaAngle, deltaAngle, 0);
 	}
 
-	void OnTriggerEnter(Collider other) {
-		if(other.gameObject.tag == "Pickup") {
-			other.gameObject.SetActive (false);
-		}
-	}
 }

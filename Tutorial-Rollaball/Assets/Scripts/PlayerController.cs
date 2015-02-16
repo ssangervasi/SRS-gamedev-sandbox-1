@@ -17,4 +17,11 @@ public class PlayerController : MonoBehaviour {
 		rigidbody.AddForce (speed*movement*Time.deltaTime);
 
 	}
+
+	
+	void OnTriggerEnter(Collider other) {
+		if(other.gameObject.tag == "Pickup") {
+			other.gameObject.SetActive(false);
+		}
+	}
 }
