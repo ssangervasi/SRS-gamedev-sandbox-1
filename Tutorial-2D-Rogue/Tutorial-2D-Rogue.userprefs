@@ -1,8 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="..\Tutorial-2D-Rogue\Assets\Scripts\BoardManager.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\BoardManager.cs">
     <Files>
-      <File FileName="..\Tutorial-2D-Rogue\Assets\Scripts\BoardManager.cs" Line="75" Column="4" />
+      <File FileName="Assets\Scripts\BoardManager.cs" Line="75" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
