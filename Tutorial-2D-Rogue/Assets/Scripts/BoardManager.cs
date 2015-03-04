@@ -58,7 +58,7 @@ public class BoardManager : MonoBehaviour {
 
 	Vector3 RandomPosition() {
 		int randomIndex = Random.Range (0, gridPositions.Count);
-		Vector3 randomPosition = gridPositions (randomIndex);
+		Vector3 randomPosition = gridPositions [randomIndex];
 		gridPositions.RemoveAt (randomIndex);
 		return randomPosition;
 	}
