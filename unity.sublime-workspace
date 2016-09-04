@@ -1,0 +1,793 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"perm",
+				"permutations"
+			],
+			[
+				"trans",
+				"trans_list"
+			],
+			[
+				"tr",
+				"trans_index"
+			],
+			[
+				"tra",
+				"trans_list"
+			],
+			[
+				"upd",
+				"updowns"
+			],
+			[
+				"per",
+				"permute"
+			],
+			[
+				"def",
+				"defaultdict"
+			],
+			[
+				"pu",
+				"permutations"
+			],
+			[
+				"tst",
+				"test_permute_sorter"
+			],
+			[
+				"ps",
+				"ps_sorted"
+			],
+			[
+				"sub",
+				"sub_chain"
+			],
+			[
+				"min",
+				"min_chain"
+			],
+			[
+				"j",
+				"j_time"
+			],
+			[
+				"sub_",
+				"sub_danger"
+			],
+			[
+				"is",
+				"is_lantern_safe"
+			],
+			[
+				"dan",
+				"danger"
+			],
+			[
+				"danger",
+				"danger_side"
+			],
+			[
+				"c",
+				"current"
+			],
+			[
+				"pan",
+				"pancake"
+			],
+			[
+				"pa",
+				"pancake_solver"
+			],
+			[
+				"sleep",
+				"sleep_count"
+			],
+			[
+				"case",
+				"cases"
+			],
+			[
+				"sol",
+				"solution"
+			],
+			[
+				"sequ",
+				"sequence"
+			],
+			[
+				"file",
+				"fileName"
+			],
+			[
+				"read",
+				"readPuzzle"
+			],
+			[
+				"sta",
+				"stateIndex"
+			],
+			[
+				"next",
+				"nextState"
+			],
+			[
+				"setS",
+				"setState"
+			],
+			[
+				"update",
+				"updateVal"
+			],
+			[
+				"break",
+				"breakAfter"
+			],
+			[
+				"log",
+				"logMax"
+			],
+			[
+				"PRog",
+				"Progress"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"max",
+				"maxStep"
+			],
+			[
+				"progre",
+				"progressbar"
+			],
+			[
+				"step",
+				"stepsRemaining"
+			],
+			[
+				"solv",
+				"solvable"
+			],
+			[
+				"new",
+				"newSequence"
+			],
+			[
+				"grd",
+				"gridInfo"
+			],
+			[
+				"grid",
+				"gridInfo"
+			],
+			[
+				"puzzl",
+				"puzzleName"
+			],
+			[
+				"puz",
+				"puzzle"
+			],
+			[
+				"sim",
+				"simple"
+			],
+			[
+				"puzz",
+				"puzzleName"
+			],
+			[
+				"simple",
+				"simplePuzzle"
+			],
+			[
+				"acti",
+				"activeSeq"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"seq",
+				"sequenceLength"
+			],
+			[
+				"stae",
+				"states"
+			],
+			[
+				"IMag",
+				"ImageDraw"
+			],
+			[
+				"shi",
+				"shiftGroup"
+			],
+			[
+				"group",
+				"groups"
+			],
+			[
+				"shiftG",
+				"shiftGroup"
+			],
+			[
+				"ed",
+				"edgeLeft"
+			],
+			[
+				"shift",
+				"shiftStart"
+			],
+			[
+				"last",
+				"lastGroup"
+			],
+			[
+				"print",
+				"printState"
+			],
+			[
+				"initi",
+				"initialState"
+			],
+			[
+				"s",
+				"seq"
+			],
+			[
+				"stat",
+				"stateIndex"
+			],
+			[
+				"init",
+				"initialState"
+			],
+			[
+				"gr",
+				"groups"
+			],
+			[
+				"state",
+				"stateIndex"
+			],
+			[
+				"grou",
+				"groups"
+			],
+			[
+				"con",
+				"contains"
+			],
+			[
+				"shou",
+				"shouldBeFalse"
+			],
+			[
+				"should",
+				"shouldBeTrue"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"ent",
+				"entryIndex"
+			],
+			[
+				"bold",
+				"bolder"
+			],
+			[
+				"color-co",
+				"color-complement-2"
+			],
+			[
+				"font",
+				"font-primary"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 196.0,
+		"last_filter": "add ",
+		"selected_items":
+		[
+			[
+				"add ",
+				"Project: Add Folder"
+			],
+			[
+				"indent",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"save al",
+				"File: Save All"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"magic",
+				"Snippet: __magic__"
+			],
+			[
+				"class",
+				"Snippet: New Class"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"functio",
+				"Snippet: Function"
+			],
+			[
+				"snippet cl",
+				"Snippet: New Class"
+			],
+			[
+				"snipp c",
+				"Snippet: If Condition"
+			],
+			[
+				"snipp",
+				"Snippet: Function"
+			],
+			[
+				"snippet ",
+				"Snippet: __magic__"
+			],
+			[
+				"doc ",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"set syntax s",
+				"Set Syntax: SCSS"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack inst",
+				"Package Control: Install Package"
+			],
+			[
+				"package instal",
+				"Package Control: Install Package"
+			],
+			[
+				"packa insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/B/Documents/GitHub/SRS-gamedev-sandbox-1"
+	],
+	"file_history":
+	[
+		"/B/Documents/GitHub/python-playground/riddle/reddit/permute_sort.py",
+		"/B/Documents/GitHub/python-playground/riddle/solver/solver.py",
+		"/B/Documents/GitHub/python-playground/riddle/reddit/reddit_riddle.py",
+		"/B/Documents/GitHub/python-playground/riddle/reddit/bridge_riddle.py",
+		"/B/Documents/GitHub/python-playground/riddle/reddit/powers.py",
+		"/B/Documents/GitHub/python-playground/riddle/google_practice/solutions.py",
+		"/B/Documents/GitHub/python-playground/riddle/counting_sheep.py",
+		"/B/Documents/GitHub/python-playground/B-small-practice.in",
+		"/B/Documents/GitHub/python-playground/counting_sheep.py",
+		"/B/Documents/GitHub/python-playground/B-small.out",
+		"/B/Documents/GitHub/python-playground/reddit_riddle.py",
+		"/B/Documents/GitHub/python-playground/A-large.out",
+		"/B/Documents/GitHub/python-playground/A.out",
+		"/B/Documents/GitHub/python-playground/primes.txt",
+		"/B/Downloads/primes1/primes1.txt",
+		"/B/Documents/GitHub/python-playground/GridFiller/puzzles/hard.json",
+		"/B/Documents/GitHub/python-playground/GridFiller/puzzles/harder.json",
+		"/B/Documents/GitHub/python-playground/GridFiller/puzzles/simple.json",
+		"/B/Documents/GitHub/python-playground/GridFiller/puzzles/large.json",
+		"/B/Documents/test.json",
+		"/B/Documents/json_reader.py",
+		"/B/Documents/GitHub/python-playground/.gitignore",
+		"/B/Documents/GridFiller/grid_filler.py",
+		"/B/Documents/GitHub/sagacious-octo-capsicum/src/styles/_pallette2.scss",
+		"/B/Documents/GitHub/sagacious-octo-capsicum/src/styles/_pallette.scss",
+		"/B/Documents/GitHub/sagacious-octo-capsicum/src/styles/_main-layout.scss",
+		"/B/Documents/GitHub/sagacious-octo-capsicum/src/styles/_pallette3.scss",
+		"/B/Documents/GitHub/sagacious-octo-capsicum/src/styles/_navigation.scss",
+		"/B/Documents/GitHub/sagacious-octo-capsicum/src/styles/main.scss",
+		"/B/Documents/GitHub/sagacious-octo-capsicum/src/styles/_playground.scss",
+		"/B/Documents/GitHub/sagacious-octo-capsicum/src/styles/srsApp.css",
+		"/B/Documents/GitHub/sagacious-octo-capsicum/meta.sublime-project",
+		"/B/Documents/GitHub/sagacious-octo-capsicum/dist/srsApp.css",
+		"/B/Documents/GitHub/sagacious-octo-capsicum/src/_pallette.scss",
+		"/B/Documents/GitHub/sagacious-octo-capsicum/src/pallette.css",
+		"/B/Documents/GitHub/sagacious-octo-capsicum/bower.json",
+		"/C/Users/Sebastian/.ssh/config",
+		"/B/2ac766bb0fcdbecbd3d6a0"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\\n\\n([^J\\n])",
+			"  Jour",
+			"(Journal.*)\\n(\\s\\s)",
+			"\\n(\\w)",
+			"pop",
+			"safety",
+			"danger",
+			"sub_",
+			"danger",
+			"safety",
+			"person_index",
+			"person_times",
+			"person_index",
+			"loop_side",
+			"travel",
+			"safety",
+			"danger",
+			",",
+			"parser",
+			"insom",
+			"solve_file",
+			",",
+			"prime",
+			"primes",
+			"primes_txt",
+			"solve_primes",
+			"'INSOMNIA'",
+			"\\s+(\\d)",
+			"start_count",
+			"5",
+			"25",
+			"skipState",
+			"stateForGroups",
+			"state = ",
+			"State = ",
+			"state = ",
+			"stateforgroups",
+			"edgeRight",
+			"edgeLeft",
+			" progress",
+			"progress",
+			"LogBar",
+			"logMax",
+			"PBar",
+			"prefilled",
+			"d[",
+			"asJson",
+			"	]",
+			"7, 3, 1, 1, 7",
+			"16",
+			"8",
+			"[",
+			",",
+			"PzlClass.PuzzleUtil",
+			"drawSolution",
+			"draw",
+			"puzzle",
+			"Puzzle",
+			"util",
+			"Pzl",
+			"pzl",
+			"PzlClass",
+			"Pzl",
+			"simplePuzzle",
+			"simplePattern",
+			"simpleGrid",
+			"pzl",
+			"Util",
+			"sel\\.",
+			"stateForGroups",
+			"width",
+			"10",
+			"len(states[0])",
+			"len(states)",
+			"Sequence(test[0], test[1])",
+			"Sequence(",
+			"seque",
+			"cycleGroup",
+			".length",
+			"lastGroup",
+			"group",
+			"boundary",
+			"edge",
+			"} ",
+			"withinBoundary",
+			"rightIndex",
+			"shiftGroups",
+			"groupToShift",
+			"active",
+			"nextState",
+			"groupToShift",
+			"nextstate",
+			"d3",
+			"testMethods",
+			"len(self.groups) - 1",
+			"activeGroup",
+			"statefor",
+			"self",
+			"index",
+			"matches",
+			"activeGroup",
+			"matches",
+			"self.state",
+			"matches",
+			"Sequence",
+			"		",
+			"arg",
+			"grid",
+			"25",
+			"puzzel",
+			"[0]",
+			"=",
+			"return self\n",
+			"return self",
+			"return",
+			"state",
+			"State",
+			"small",
+			":",
+			"[]",
+			"false",
+			"nextgroup",
+			";",
+			"}",
+			"color:",
+			"a:",
+			"32",
+			".header "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\\n\\1",
+			"Jour",
+			"\\1\\n\\n\\2",
+			"\\n\\n  \\1",
+			",\\1",
+			"self.",
+			"puzzle",
+			"\\n",
+			"]]",
+			"[["
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "",
+	"project": "unity.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"bpar",
+				"B-small-practice.in"
+			],
+			[
+				"bo",
+				"B-small.out"
+			],
+			[
+				"a-l",
+				"A-large.out"
+			],
+			[
+				"a",
+				"A.out"
+			],
+			[
+				"primes",
+				"primes.txt"
+			],
+			[
+				"harder",
+				"puzzles\\harder.json"
+			],
+			[
+				"har",
+				"puzzles\\hard.json"
+			],
+			[
+				"had",
+				"puzzles\\hard.json"
+			],
+			[
+				"large",
+				"puzzles\\large.json"
+			],
+			[
+				"ignore",
+				".gitignore"
+			],
+			[
+				"srsap",
+				"src\\styles\\srsApp.css"
+			],
+			[
+				"pall",
+				"src\\styles\\_pallette.scss"
+			],
+			[
+				"srs",
+				"dist\\srsApp.css"
+			],
+			[
+				"p",
+				"Procfile"
+			],
+			[
+				"package",
+				"package.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"B:\\Documents\\GitHub\\sagacious-octo-capsicum\\meta.sublime-project"
+			],
+			[
+				"pyth",
+				"B:\\Documents\\GitHub\\python-playground\\GridFiller\\grid-filler.sublime-workspace"
+			],
+			[
+				"grid",
+				"B:\\Documents\\GitHub\\python-playground\\GridFiller\\grid-filler.sublime-workspace"
+			],
+			[
+				"js",
+				"B:\\Documents\\GitHub\\sagacious-octo-capsicum\\src\\js.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 237.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
